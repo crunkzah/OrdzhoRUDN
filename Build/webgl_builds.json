@@ -1,0 +1,13 @@
+{
+"companyName": "RUDN",
+"productName": "RUDN Ordzho map",
+"dataUrl": "webgl_builds.data.unityweb",
+"wasmCodeUrl": "webgl_builds.wasm.code.unityweb",
+"wasmFrameworkUrl": "webgl_builds.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#F1F1F1",
+"cacheControl": {"default": "must-revalidate"}
+}
